@@ -1,5 +1,5 @@
 #include "stdafx.h"
-int a=50;
+int a=60;
  
 int _tmain(int argc, _TCHAR* argv[])
 {
